@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f7fa;
+}
+
+/* Top bar */
+.navbar {
+  background-color: #0e7c86;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+/* Big banner */
+.hero {
+  background-color: #2bb3a3;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+/* Sections */
+.section {
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.section h2 {
+  color: #0e7c86;
+}
+
+/* Cards */
+.card {
+  background-color: white;
+  display: inline-block;
+  width: 250px;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px gray;
+}
+
+/* Form */
+.form-box {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px gray;
+  text-align: left;
+}
+
+input, select {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0 15px 0;
+}
+
+button {
+  background-color: #ff8a3d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Bottom bar */
+.footer {
+  background-color: #0e7c86;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
